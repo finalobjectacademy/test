@@ -69,6 +69,35 @@
             "answers": [
                 "c"
             ]
+        },
+        {
+            "id": "Qid7",
+            "text": "What is 7 times of 10?",
+            "descriptionToAnswer": "Find 7 x 10",
+            "options": [
+                "54",
+                "66",
+                "70",
+                "72"
+            ],
+            "answers": [
+                "c"
+            ]
+        },
+        {
+            "id": "Qid8",
+            "text": "What is 8 times of 10?",
+            "descriptionToAnswer": "Find 8 x 10",
+            "options": [
+                "54",
+                "66",
+                "80",
+                "72"
+            ],
+            "answers": [
+                "c"
+            ]
         }
+        
     ]
 }
